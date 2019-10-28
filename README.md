@@ -3,11 +3,10 @@
 Maker Media GmbH 
 *** 
 
-# 3D-Druckfilamente 
+# Jakobsleiterchen
 
-### Immer häufiger werden Druckfilamente ohne Aufkleber auf Spule oder Verpackung geliefert. Hier erhalten Sie Etiketten für die 30 wichtigsten Filamentarten zum Selbstdruck mit allen wichtigen Angaben.
+### Halloween naht: Wie wäre es mit einer knatternden Jakobsleiter als Dekoration? Hier finden Sie die 3D-Druckdatei für eine Mini-Ausgabe.
 
-Drucken Sie das jeweilige Etikett einfach in der gewünschten Größe auf handelsübliche Klebeetiketten aus.
 
 ![Picture](https://github.com/MakeMagazinDE/Jakobsleiterchen/blob/master/leiter.png) 
 
